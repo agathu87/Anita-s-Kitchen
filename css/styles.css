@@ -1,6 +1,6 @@
 .landing {
   text-align: center;
-  background-image: url(/home/angela/Documents/Anita/img/backgrounds/landing.jpg);
+  background-image: url(../img/backgrounds/landing.jpg);
 }
 .line1 {
   color: white
@@ -10,17 +10,17 @@ h1 {
 }
 .breakfast {
   padding: 80px;
-  background-image: url(/home/angela/Documents/Anita/img/foodtop/breakfast.jpg);
+  background-image: url(../img/foodtop/breakfast.jpg);
   color: white;
 }
 .lunch {
   padding: 80px;
-  background-image: url(/home/angela/Documents/Anita/img/foodtop/lunch.jpg);
+  background-image: url(../img/foodtop/lunch.jpg);
   color: white;
 }
 .dinner {
   padding: 80px;
-  background-image: url(/home/angela/Documents/Anita/img/foodtop/dinner.jpg);
+  background-image: url(../img/foodtop/dinner.jpg);
   color: white;
 }
 .happy {
@@ -37,5 +37,7 @@ h1 {
   width: 80px;
   height: 40px;
   border: 1px solid red;
-  float: right;
+}
+.article {
+  margin-top: 40px
 }
